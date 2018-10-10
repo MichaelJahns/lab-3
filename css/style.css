@@ -1,0 +1,13 @@
+*
+{
+    background-color: darkslateblue;
+}
+#console
+{
+    position: absolute;
+    border: red dotted 5px;
+    height:500px;
+    width:400px;
+    margin-left: 50px;
+    margin-right: auto;
+}
